@@ -5,6 +5,7 @@
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QLabel
 from PyQt5.QtCore import QTimer
+
 class MyApp(QWidget):
     # GUI 창 속에 띄울 요소 - QWidget을 베이스로하는 껍데기 만든 것
     # Class는 붕어빵과 붕어빵틀 중에 붕어빵틀에 해당이 됨
